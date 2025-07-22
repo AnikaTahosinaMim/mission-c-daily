@@ -1,3 +1,8 @@
+/*
+    * This file is part of the Mission C Daily project.
+
+*/
+
 #include <stdio.h>
 int main()
 {
