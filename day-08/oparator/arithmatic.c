@@ -7,20 +7,25 @@ int main (){
 // ;
 // printf("The sum is = %d\n",sum);
 
-int a,b, result;
-printf("Enter two numbers: ");
-scanf("%d %d",&a,&b);
-result = a + b;
-printf("sum = %d\n",result);
-result = a - b;
-printf("sub = %d\n",result);
-result = a * b;
-printf("mul = %d\n",result);
-result = a / b;
-printf("div = %d\n",result);
-result = a % b;
-printf("remainder = %d\n",result);
+// int a,b, result;
+// printf("Enter two numbers: ");
+// scanf("%d %d",&a,&b);
+// result = a + b;
+// printf("sum = %d\n",result);
+// result = a - b;
+// printf("sub = %d\n",result);
+// result = a * b;
+// printf("mul = %d\n",result);
+// result = a / b;
+// printf("div = %d\n",result);
+// result = a % b;
+// printf("remainder = %d\n",result);
 
+// float a, b, result;
+// printf("Enter two numbers: ");
+// scanf("%f %f", &a, &b);
+// result = a / b;
+// printf("Division = %.2f\n",result);
 
 
 return 0;
